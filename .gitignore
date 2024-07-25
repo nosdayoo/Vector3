@@ -1,0 +1,23 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/Vector3/FileContentIndex
+/.vs/Vector3/FileContentIndex/10fc3722-1e28-4250-9b57-75fa6bd8bda1.vsidx
+/.vs/Vector3/FileContentIndex/c335cfdc-3bb8-44d7-98f6-61a04c34043d.vsidx
+/.vs/Vector3/v17
+/.vs/Vector3/v17/.wsuo
+/.vs/Vector3/v17/Browse.VC.db
+/.vs/Vector3/v17/Browse.VC.db-shm
+/.vs/Vector3/v17/Browse.VC.db-wal
+/.vs/Vector3/v17/Browse.VC.opendb
+/.vs/Vector3/v17/DocumentLayout.json
+/.vs/Vector3/v17/ipch/AutoPCH
+/.vs/Vector3/v17/ipch/AutoPCH/9fdd8acd8ec7fda5
+/.vs/Vector3/v17/ipch/AutoPCH/9fdd8acd8ec7fda5/VCTMP13204_945049.VECTOR3.00000000.ipch
+/.vs/Vector3/v17/ipch/AutoPCH/a626479f78234de7
+/.vs/Vector3/v17/ipch/AutoPCH/a626479f78234de7/VECTOR3.ipch
+/.vs/Vector3/v17/Solution.VC.db
+/.vs/VSWorkspaceState.json
