@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <string>
+#include <algorithm>
 
 template <typename T>
 class Vec3 {
@@ -76,7 +77,7 @@ public:
         return Vec3(x / X, y / Y, z / Z);
     }
 
-    inline 	Vec3 floor() const {
+    inline Vec3 floor() const {
         return Vec3(floorf(x), floorf(y), floorf(z));
     };
 
