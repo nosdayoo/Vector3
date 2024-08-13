@@ -155,10 +155,6 @@ public:
         return Vec3(std::max(x, other.x), std::max(y, other.y), std::max(z, other.z));
     }
 
-    inline Vec3 round() const {
-        return Vec3(std::round(x), std::round(y), std::round(z));
-    }
-
     inline Vec3 negate() const {
         return Vec3(-x, -y, -z);
     }
